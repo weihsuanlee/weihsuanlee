@@ -35,7 +35,8 @@ Designed for events, inquiries, and academic use, Formrrito focuses on usability
 
 ### 🤖 AI Sponsor Finder  
 - 🔗 [GitHub Repo](https://github.com/weihsuanlee/v0-ai-sponsor-finder)
-- 🌐 Live Demo: https://v0-ai-sponsor-finder.vercel.app/
+- 🌐 Live Link: https://v0-ai-sponsor-finder.vercel.app/
+- 📹 Video Demo: https://www.youtube.com/watch?v=yNsAwi7xMCU
 
 ![AI Sponsor Finder screenshot](./assets/ai-sponsor-finder.png)
 
