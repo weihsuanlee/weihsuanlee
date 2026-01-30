@@ -3,6 +3,8 @@
 I'm a **Front-End Developer** from Taipei, Taiwan, about to begin a new chapter in **Luxembourg** as part of the working holiday program.  
 With several years of hands-on experience in web development, I’m currently **seeking new job opportunities** in Luxembourg or **remote-friendly teams**.
 
+🌐 Portfolio: https://weihsuanlee.vercel.app/
+
 ---
 
 ## 💼 Work Highlights
